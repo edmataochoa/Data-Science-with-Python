@@ -9,5 +9,5 @@ True at a p<0.01 (we reject the null hypothesis), or different=False if
 otherwise (we cannot reject the null hypothesis). The variable p should
 be equal to the exact p value returned from scipy.stats.ttest_ind(). The
 value for better should be either "university town" or "non-university town"
-depending on which has a lower mean price ratio (which is equivilent to a
+depending on which has a lower mean price ratio (which is equivalent to a
 reduced market loss).'''
